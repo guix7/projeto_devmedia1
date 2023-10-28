@@ -26,7 +26,7 @@ if (Number(valor > 0)) {
 
     else {
         let juros = 0.1;
-        let valor_juros = Number(valor) * juros;
+        let valor_juros = Number(valor) * juros
         let valor_final = Number(valor) + valor_juros;
 
         console.log("\n\nValor original da dívida: R$" + valor);
