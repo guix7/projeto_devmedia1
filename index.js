@@ -21,7 +21,7 @@ if (Number(valor > 0)) {
         console.log("\n\nValor original da dívida: R$" + valor);
         console.log("Dias atrasados: " + dias);
         console.log("Taxa de juros: 5%");
-        console.log("Valor total com juros: " + valor_final)
+        console.log("Valor total com juros: " + valor_final);
     }
 
     else {
